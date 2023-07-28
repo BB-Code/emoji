@@ -1,4 +1,4 @@
-# emoji-list
+# Emoji Search
 
 
 Table of Contents
